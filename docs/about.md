@@ -62,3 +62,7 @@ Netcode supports the following platforms:
 - XR platforms running on Windows, Android, and iOS operating systems
 - Most [**closed platforms**](https://unity.com/platform-installation), such as consoles. Contact us for more information about specific closed platforms.
   - When working with consoles (such as PlayStation, Xbox, or Nintendo Switch), there may be Netcode-specific policies you should be aware of while testing and before launching your game live. Refer to the console's internal documentation for more information. This content is typically protected by NDA.
+
+Netcode supports the following scale:
+
+- currently it supports only up to about 10 or 15 players.
