@@ -19,7 +19,7 @@ The below example is a simple `string` container class that implements `INetwork
 [ClientRpc]
 void SendMessagesClientRpc(StringContainer[] messages) 
 { 
-    foreach (var stringContainer in stringContainers)
+    foreach (var stringContainer in messages)
     {
         Debug.Log($"{stringContainer.SomeText}");
     }
